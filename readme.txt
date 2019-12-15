@@ -1,4 +1,4 @@
-Testing Command Line Repository
-Creating a new terminal
-Added new line to readme in new branch
-Train
+Setting up git on command line
+This is a remake of an older repository
+Testing remote server for website
+
